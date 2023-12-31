@@ -4,6 +4,7 @@ let user = 'Zelikaion';
 
 let warning = "Oh no! You've a aquired a virus (;_;)! Your computer is now compromised and must be cleansed! Click OK to make this message bugger off!";
 
+alert(warning)
 
 let greeting = 'Greetings!';
 let hello;
@@ -28,7 +29,7 @@ let admin, name;
 name = 'Zhykolarr';
 admin = name;
 
-alert(admin);
+//alert(admin);
 //Complete, but why is 'name' deprecated?
 
 // assignment:
